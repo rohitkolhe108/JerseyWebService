@@ -4,7 +4,6 @@ Example of Jersey 2 WebService with MongoDB integration
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```
 ```
